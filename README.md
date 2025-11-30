@@ -1,3 +1,3 @@
-# Voicevibing
+# voicevibing
 
 Voice vibing project.
