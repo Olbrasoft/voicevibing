@@ -14,4 +14,4 @@ sleep 0.5
 # Přepne na splits layout a rozdělí okno horizontálně (horní/dolní)
 # V dolním okně spustí ContinuousListener
 kitty @ goto-layout splits
-kitty @ launch --location=hsplit --cwd=/home/jirka/voice-assistant/continuous-listener dotnet ContinuousListener.dll
+kitty @ launch --location=hsplit --bias=30 --cwd=/home/jirka/voice-assistant/continuous-listener dotnet ContinuousListener.dll
